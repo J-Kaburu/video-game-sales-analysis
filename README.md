@@ -1,4 +1,4 @@
-# Video Game Sales Intelligence: Global Market Analysis -Python
+# Video Game Sales Analysis-Python
 This project performs a comprehensive Exploratory Data Analysis (EDA) on a dataset of **16,598 games** to uncover the drivers of revenue in the gaming industry. By analyzing 30 years of data, this study identifies high-growth genres, dominant publishers, and regional market variances. 
 **Key finding:** The industry is heavily "top-heavy," where a small percentage of "Super-Hit" outliers drive the majority of global revenue, creating a massive gap between average (Mean) and typical (Median) sales.
 
@@ -23,7 +23,7 @@ Action and Sports genres emerged as the primary revenue drivers. However, using 
 * **North America & Europe:** Mirror each other with a heavy preference for **Action** and **Sports**.
 * **Japan:** Displays a unique market profile where **Role-Playing Games (RPGs)** are the primary revenue driver, often outperforming Action titles 3-to-1.
 <img width="1384" height="784" alt="output_10_0" src="https://github.com/user-attachments/assets/f7d3e187-2220-4f10-a00a-5681b717317d" />
-*Figure 2: Regional Flavor: How Genre Preferences Shift by Continent.*
+*Figure 2: Regional Favour: How Genre Preferences Shift by Continent.*
 
 ### 3. Industry Evolution (1986 - 2016)
 The analysis highlights a "Golden Era" of sales peaking in the late 2000s, driven by the seventh generation of consoles (Wii, PS3, Xbox 360). This visualization tracks the industry's growth from a niche hobby to a dominant global entertainment force.
